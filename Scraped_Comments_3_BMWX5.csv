@@ -1,0 +1,185 @@
+Username,Comment
+Lorna,"Hey there - cry for help for a dreaded, intermittent issue!  Now and again she just wont start.   Symptoms are:
+
+
+	On turning the ignition key, all seems fine, no warning lights etc but no sign of life from the engine.  Nadda.   Sometimes trying a couple of times ""unblocks"" the problem, sometimes it needs twenty of more attempts and other times I give up, leave her alone and come back another day.   Then starts first time.   Sometimes.
+
+
+	She can go months without this issue reappearing, then I might experience the problem several times over a week or so - then it's fine again for a while.   There doesn't seem to be any correlation with the weather/temperature, parking location (flat/on a hill), starting from cold or warm, amount of fuel in the tank etc.
+
+
+	First time it happened I called out Green Flag who couldn't find any problem (having assumed it was the battery or battery conections, which it wasn't).    Booked her in to the garage but they couldn't find anything wrong.
+
+	Any suggestions what I might try to diagnose the issue - albeit intermittent and therefore almost impossible to troubleshoot?
+
+	Many thanks in advance for any help received.
+
+
+	Lorna"
+Lorna,"Hi Lorna
+
+
+	Welcome to the Forum
+
+
+	Intermittent faults are a nightmare a Scan with a BMW friendly Diagnostic system (BMW 1.4.0 BNW INPA/ISTA)
+
+
+	All faults will be logged even intermittent ones will leave a trace as ""Fault not Present"" without a scan you could change several parts/sensors before you find the culprit as it could be anything from a Failing Ignition switch to the starter relay
+
+
+	Dave"
+Greydog,"I had the same issue.
+
+
+	the chip in the key failed on mine which stopped the car recognising the correct key to turn off the immobiliser.
+
+
+	I ended up swapping the ews unit, the dme unit, all locks and ignition sensor before realising. 
+	do you have another key? Does it do it with both keys? 
+	I found the issue using pasoft 1.4.0 diagnostics tool on the laptop. 
+	mid you go to live view, put the key near the ignition and the system should read the key… sometimes mine would fail to read and cause the issue. I got a second key cut and programmed it. No issues since!"
+Greydog,"Thanks for the suggestions and yes, I've already tried with my spare key (when the problem first manifested) and it still didn't start.  I'll see if I can get hold of the diags software, assume I will also need a specfic cable to connect to the management system?"
+X5smw,"Or depending where you live in the country there may be a member who can help locally? Or maybe a BMW Specialist (normally cheaper than a BMW Main Dealer)
+
+
+	Dave"
+X5smw,"As it’s an automatic, am I right in thinking the gear selector has a sensor that won’t start the engine if it thinks it’s in drive? 
+	could be a faulty sensor?"
+Lorna,"Good thinking Stu
+
+
+	Lorna try starting in Neutral 
+
+
+	Dave"
+Lorna,Thanks both - I tried that when the problem first happened .... actually tried moving through all the gears and and starting in Park and in neutral.  No joy unfortunately but thanks again for the thought.
+Greydog,"My bet would the starter relay has that been checked/changed, But I have the benefit of a Full Diagnostic suite 
+
+
+	Dave"
+Greydog,"Hello Lorna,
+
+
+	We have two E46's one a 320Ci the other a 330Ci (VDO/Siemens MS43 ECM's) they both occationally do this.  I have found that if you remove the key from the ignition, open and close the drivers door, no need to get out, lock using the remote, wait 10, or so seconds, unlock and the try again it clears the problem every time.
+
+
+	I have also found it happens more often if you jump in and quickly go to start the car, which would make me think it's a ""comms"" issue.  Being lazy in my old age, & because I have a fix, I have never bothered to investigate any further.
+
+
+	My commuting vehicle is a 2009 Merc 220Cdi with 270K on the clock, this also does the very same thing too, but worse (can take several attemps to get it to clear & start) and more often than the E46's.
+
+
+	We previously had a E39 525D (Bosch EDC 15C4 ECM) and this happened with that too.
+
+
+	If you haven't already tried the Lock/Unlock method, give that a go.
+
+
+	Alan."
+X5smw,"1 hour ago, aab104 said:
+	
+
+
+			Hello Lorna,
+		
+
+			We have two E46's one a 320Ci the other a 330Ci (VDO/Siemens MS43 ECM's) they both occationally do this.  I have found that if you remove the key from the ignition, open and close the drivers door, no need to get out, lock using the remote, wait 10, or so seconds, unlock and the try again it clears the problem every time.
+		
+
+			I have also found it happens more often if you jump in and quickly go to start the car, which would make me think it's a ""comms"" issue.  Being lazy in my old age, & because I have a fix, I have never bothered to investigate any further.
+		
+
+			My commuting vehicle is a 2009 Merc 220Cdi with 270K on the clock, this also does the very same thing too, but worse (can take several attemps to get it to clear & start) and more often than the E46's.
+		
+
+			We previously had a E39 525D (Bosch EDC 15C4 ECM) and this happened with that too.
+		
+
+			If you haven't already tried the Lock/Unlock method, give that a go.
+		
+
+			Alan.
+		
+
+
+
+	Thanks Alan - that sounds worth a try!
+
+
+	 
+
+
+
+		2 hours ago, Greydog said:
+	
+
+
+			My bet would the starter relay has that been checked/changed, But I have the benefit of a Full Diagnostic suite 
+		
+
+			Dave
+		
+
+
+
+	Thanks Dave - I have the diags on order so will see what that tells me.  🙂"
+X5smw,"Reply to this topic...
+
+
+×
+  Pasted as rich text.   Paste as plain text instead
+
+
+
+
+  Only 75 emoji are allowed.
+			
+
+
+
+×
+  Your link has been automatically embedded.   Display as a link instead
+
+
+
+
+
+
+
+
+×
+  Your previous content has been restored.   Clear editor
+
+
+
+
+×
+  You cannot paste images directly. Upload or insert images from URL.
+			
+
+
+
+
+
+
+
+
+
+Insert image from URL
+
+
+
+
+
+
+
+
+
+
+
+×
+
+Desktop
+Tablet
+Phone"
